@@ -1,12 +1,4 @@
 ### Welcome to my profile
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanpinheiro&show_icons=false&theme=radical)
-
-<a href="https://github.com/jhonatanpinheiro/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatanpinheiro&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/jhonatanpinheiro/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatanpinheiro&repo=convoychat" />
-</a>
 
 ## About to me <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234388-ded2df16-5376-4859-b60d-b4671a9ec021.png">
 
