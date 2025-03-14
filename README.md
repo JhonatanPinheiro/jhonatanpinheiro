@@ -15,17 +15,14 @@ Sou um profissional com experiência na área de Tecnologia da Informação e Ve
 Soy un profesional con experiencia en las áreas de Tecnología de la Información y Ventas. Tengo una formación académica en Análisis y Desarrollo de Sistemas (TI), y además de ser hablante nativo de portugués, tengo un nivel intermedio de inglés y un nivel preintermedio de español.A lo largo de mi carrera, he trabajado como Analista de Soporte de Computadoras en Adesso, ocupé el puesto de Supervisor de Ventas en Burger King y actualmente estoy empleado como Desarrollador Web / Administrador de Bases de Datos en Radiusnet.
 
 ### Skills - Habilidades
-
-
-
 <br>
-
 <div>
     <div>
          <a href="https://github.com/jhonatanpinheiro/convoychat">
          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatanpinheiro&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
           </a>
     </div>
+    <br>
     <ul>
         <li>
             <a target="_blank" href="https://www.w3schools.com/html/html_basic.asp">
