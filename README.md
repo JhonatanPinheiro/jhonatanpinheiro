@@ -18,7 +18,7 @@ Soy un profesional con experiencia en las áreas de Tecnología de la Informaci�
 
 <div>
   <a href="https://github.com/jhonatanpinheiro/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatanpinheiro&layout=compact&langs_count=8&card_width=320&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatanpinheiro&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
 </div>
 
