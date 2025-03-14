@@ -2,6 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## About to me <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234388-ded2df16-5376-4859-b60d-b4671a9ec021.png">
 
