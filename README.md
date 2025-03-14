@@ -1,10 +1,10 @@
 ### Welcome to my profile
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanpinheiro&show_icons=false&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/jhonatanpinheiro/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatanpinheiro&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/jhonatanpinheiro/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatanpinheiro&repo=convoychat" />
 </a>
 
