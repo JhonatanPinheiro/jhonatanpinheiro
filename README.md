@@ -1,6 +1,13 @@
 ### Welcome to my profile
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanpinheiro&show_icons=false&theme=radical)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatanpinheiro&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonatanpinheiro&repo=convoychat" />
+</a>
+
 ## About to me <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234388-ded2df16-5376-4859-b60d-b4671a9ec021.png">
 
 I am a professional with solid experience in the areas of Information Technology and Sales. I hold an academic degree in Systems Analysis and Development (IT) and in addition to being a native Portuguese speaker, I also have an intermediate level of English and understand Spanish to a certain level. Throughout my career, I have served as a Computer Support Analyst at Adesso, worked as a Sales Supervisor at Burger King, and have been employed as a Database Administrator/ Web Developer at Radiusnet since.
