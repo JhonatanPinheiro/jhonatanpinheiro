@@ -16,15 +16,18 @@ Soy un profesional con experiencia en las áreas de Tecnología de la Informaci�
 
 ### Skills - Habilidades
 
-<div>
-  <a href="https://github.com/jhonatanpinheiro/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatanpinheiro&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-  </a>
-</div>
+
 
 <br>
 
 <div>
+    <ul>
+      <li>
+          <a href="https://github.com/jhonatanpinheiro/convoychat">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatanpinheiro&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
+</li>
+    </ul>
     <ul>
         <li>
             <a target="_blank" href="https://www.w3schools.com/html/html_basic.asp">
