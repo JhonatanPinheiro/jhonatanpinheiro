@@ -1,9 +1,5 @@
 ### Welcome to my profile
 
-<a href="https://github.com/jhonatanpinheiro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatanpinheiro&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ## About to me <img width="5%" src="https://user-images.githubusercontent.com/48757466/232234388-ded2df16-5376-4859-b60d-b4671a9ec021.png">
 
 I am a professional with solid experience in the areas of Information Technology and Sales. I hold an academic degree in Systems Analysis and Development (IT) and in addition to being a native Portuguese speaker, I also have an intermediate level of English and understand Spanish to a certain level. Throughout my career, I have served as a Computer Support Analyst at Adesso, worked as a Sales Supervisor at Burger King, and have been employed as a Database Administrator/ Web Developer at Radiusnet since.
@@ -19,6 +15,13 @@ Sou um profissional com experiência na área de Tecnologia da Informação e Ve
 Soy un profesional con experiencia en las áreas de Tecnología de la Información y Ventas. Tengo una formación académica en Análisis y Desarrollo de Sistemas (TI), y además de ser hablante nativo de portugués, tengo un nivel intermedio de inglés y un nivel preintermedio de español.A lo largo de mi carrera, he trabajado como Analista de Soporte de Computadoras en Adesso, ocupé el puesto de Supervisor de Ventas en Burger King y actualmente estoy empleado como Desarrollador Web / Administrador de Bases de Datos en Radiusnet.
 
 ### Skills - Habilidades
+
+<div>
+  <a href="https://github.com/jhonatanpinheiro/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatanpinheiro&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
 <div>
     <ul>
         <li>
