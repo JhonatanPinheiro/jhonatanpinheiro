@@ -80,9 +80,6 @@ Soy un profesional con experiencia en las áreas de Tecnología de la Informaci�
             </ul>
         </li>
         <li>
-            <a href="https://www.devmedia.com.br/conceitos-fundamentais-de-banco-de-dados/1649">
-                <span>Database</span> || <span>Banco de dados</span>
-            </a>
             <ul>
                 <li>
                     <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop">
