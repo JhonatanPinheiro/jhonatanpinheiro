@@ -156,7 +156,7 @@ Soy un profesional con experiencia en las áreas de Tecnología de la Informaci�
 
 <div>
     <span>
-        <a target="_blank" href="https://www.microsoft.com/pt-br/windows/" target="_blank">
+        <a target="_blank" href="https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop" target="_blank">
             <img width="5%"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
         </a>
