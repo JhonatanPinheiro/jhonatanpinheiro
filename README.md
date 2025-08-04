@@ -82,11 +82,6 @@ Soy un profesional con experiencia en las áreas de Tecnología de la Informaci�
         <li>
             <ul>
                 <li>
-                    <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop">
-                        <span>Power BI</span>
-                    </a>
-                </li>
-                <li>
                     <a href="https://dev.mysql.com/doc/">
                         <span>SQL</span>
                     </a>
