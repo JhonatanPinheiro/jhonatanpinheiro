@@ -113,6 +113,11 @@ Soy un profesional con experiencia en las áreas de Tecnología de la Informaci�
                 <span>Visual Studio</span>
             </a>
         </li>
+         <li>
+            <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop">
+                <span>Power BI</span>
+            </a>
+        </li>
         <li>
             <a href="#">
                 <span>Atom</span>
